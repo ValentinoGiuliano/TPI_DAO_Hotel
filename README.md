@@ -5,7 +5,6 @@ Bienvenido al **Sistema de Gestión de Hotel**, una aplicación de escritorio de
 ## Tabla de Contenidos
 
 - [Características](#características)
-- [Capturas de Pantalla](#capturas-de-pantalla)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Requisitos Previos](#requisitos-previos)
 
