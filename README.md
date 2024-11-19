@@ -8,11 +8,7 @@ Bienvenido al **Sistema de Gestión de Hotel**, una aplicación de escritorio de
 - [Capturas de Pantalla](#capturas-de-pantalla)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Requisitos Previos](#requisitos-previos)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
+
 
 ## Características
 
@@ -38,5 +34,3 @@ Bienvenido al **Sistema de Gestión de Hotel**, una aplicación de escritorio de
 - **Pip**: Administrador de paquetes de Python.
 - Librerias mencionadas en requeriments.txt
 
-git clone https://github.com/tu-usuario/sistema-gestion-hotel.git
-cd sistema-gestion-hotel
